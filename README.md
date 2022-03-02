@@ -45,7 +45,7 @@ _OBS.: (Para usuários linux) Para usar como executável, lembrar de dar permiss
 Para executar a aplicação deve passar o argumento com o host do alvo, a porta inicial
 e a porta final. Ele irá verificar quais portas estão com o Status Open.
 
-**./scan.py  [target] [init_port] [final_port]**
+```./scan.py  [target] [init_port] [final_port]```
 
 _Exemplo de resposta obtida na execução_
 
