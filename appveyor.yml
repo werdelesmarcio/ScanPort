@@ -3,9 +3,9 @@ image: Ubuntu
 platform: Any CPU
 assembly_info:
   patch: true
-  file: '**\AssemblyInfo.*'
-  assembly_version: 1
-  assembly_file_version: 0
-  assembly_informational_version: 0
-build_script:
-- ps: python scan.py
+  file: 'info\AssemblyInfo'
+  assembly_version: {version}
+  assembly_file_version: {version}
+  assembly_informational_version: {version}
+build_script: 
+- ps: python scan.py google.com 80 90
