@@ -5,7 +5,7 @@ Aplicação: ScanPortTest
 Função: Faz uma varredura em um determinado host
         a procura a procura de portas abertas.
 Desenvolvedor: Werdeles Marcio de C. Soares
-Versão: 1.0.0
+Versão: 1.0.3
 ---------------------------------------------------
 Contato: werdelesmarcio@gmail.com 
 """
@@ -28,7 +28,6 @@ def connect(host, port):
         return(1)
     except:
         return(2)
-
 
 host = str(sys.argv[1])
 initport = int(sys.argv[2])
