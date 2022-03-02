@@ -31,22 +31,24 @@ de desenvolvimento e teste.
 * Instalar a lib **colorama** usando pip3 install colorama.
 
 ## Instalando:
-_Não é necessário instalar o ScanPortTest (apenas os requisitos citados acima)_
+```
+git clone https://github.com/werdelesmarcio/ScanPort.git
+cd ScanPort
+pip3 install -r requirements.txt
+python3 scan.py <host-alvo> [init_port] [end_port]
+```
 
-_OBS.: (Para usuários linux) Para usar como executável, lembrar de dar permissão de execução_
-**sudo chmod +x pytcpscan.py**
-
-## Execução 
 Para executar a aplicação deve passar o argumento com o host do alvo, a porta inicial
 e a porta final. Ele irá verificar quais portas estão com o Status Open.
 
-```./scan.py  [target] [init_port] [final_port]```
+_OBS.: (Para usuários linux) Para usar como executável, lembrar de dar permissão de execução_
+**sudo chmod +x pytcpscan.py**
 
 _Exemplo de resposta obtida na execução_
 
 ![image](https://user-images.githubusercontent.com/36682515/156290045-a725fabe-138d-4228-9c91-4b5811582fc1.png)
 
-Está em sua versão 1.0.3 _(beta)_ e ainda está em fase de desenvolvimento.
+A aplicação está na versão [1.0.31](https://github.com/werdelesmarcio/ScanPort/tree/1.0.31) _(beta)_. 
 
 ## Autor:
 * **Werdeles Marcio de C. Soares** - _Desenvolvedor_
