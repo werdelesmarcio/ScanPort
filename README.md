@@ -48,7 +48,7 @@ _Exemplo de resposta obtida na execução_
 
 ![image](https://user-images.githubusercontent.com/36682515/156290045-a725fabe-138d-4228-9c91-4b5811582fc1.png)
 
-A aplicação está na versão [1.0.31](https://github.com/werdelesmarcio/ScanPort/tree/1.0.31) _(beta)_. 
+A aplicação está na versão [1.0.31](https://github.com/werdelesmarcio/ScanPort/releases/tag/1.0.31) _(beta)_. 
 
 ## Autor:
 * **Werdeles Marcio de C. Soares** - _Desenvolvedor_
