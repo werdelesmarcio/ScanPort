@@ -3,11 +3,10 @@
 # - *- coding: utf- 8 - *-
 
 """
-Aplicação: ScanPortTest
-Função: Faz uma varredura em um determinado host
-        a procura a procura de portas abertas.
+Application: ScanPortTest
+Function: Faz uma varredura em um determinado host a procura de portas abertas.
 Desenvolvedor: Werdeles Marcio de C. Soares
-Versão: 1.0.3
+Version: 1.0.3
 ---------------------------------------------------
 Contato: werdelesmarcio@gmail.com 
 """
