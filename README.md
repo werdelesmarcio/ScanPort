@@ -34,12 +34,8 @@ de desenvolvimento e teste.
 ## Instalando:
 _Não é necessário instalar o ScanPortTest (apenas os requisitos citados acima)_
 
----
-
 _OBS.: (Para usuários linux) Para usar como executável, lembrar de dar permissão de execução_
 **sudo chmod +x pytcpscan.py**
-
----
 
 ## Execução 
 Para executar a aplicação deve passar o argumento com o host do alvo, a porta inicial
