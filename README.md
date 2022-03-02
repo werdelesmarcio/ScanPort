@@ -7,8 +7,12 @@
 
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan) 
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan"> 
-<img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan"> 
+
+
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/ScanPort"> 
+<img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/ScanPort"> 
+
+
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url/https/twitter.com/ScorpionInc?style=social">
 
 _Repositório para a aplicação ScanPortTest._
