@@ -3,7 +3,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/05b6e4d246c1227567d9/maintainability)](https://codeclimate.com/github/werdelesmarcio/ScanPort/maintainability) 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/05b6e4d246c1227567d9/test_coverage)](https://codeclimate.com/github/werdelesmarcio/ScanPort/test_coverage) 
 [![Build status](https://ci.appveyor.com/api/projects/status/3g3behook0t51ehd?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/scanport) 
-[![Build status](https://ci.appveyor.com/api/projects/status/3g3behook0t51ehd/branch/main?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/scanport/branch/main)
+[![Django CI](https://github.com/werdelesmarcio/ScanPort/actions/workflows/django.yml/badge.svg?branch=main)](https://github.com/werdelesmarcio/ScanPort/actions/workflows/django.yml)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ScanPort&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ScanPort)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ScanPort&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ScanPort)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ScanPort&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ScanPort)
