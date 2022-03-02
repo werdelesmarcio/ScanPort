@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# coding:utf-8
+
 """
 Aplicação: ScanPortTest
 Função: Faz uma varredura em um determinado host
