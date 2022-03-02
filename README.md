@@ -46,7 +46,7 @@ _OBS.: (Para usuários linux) Para usar como executável, lembrar de dar permiss
 
 _Exemplo de resposta obtida na execução_
 
-![image](https://user-images.githubusercontent.com/36682515/156290045-a725fabe-138d-4228-9c91-4b5811582fc1.png)
+![image](https://user-images.githubusercontent.com/36682515/156466595-4924da5e-6071-4fdc-be8c-fe8caebf2a8c.png)
 
 A aplicação está na versão [1.0.31](https://github.com/werdelesmarcio/ScanPort/releases/tag/1.0.31) _(beta)_. 
 
