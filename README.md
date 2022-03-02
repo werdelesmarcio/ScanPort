@@ -58,7 +58,7 @@ Está em sua versão 1.0.3 _(beta)_ e ainda está em fase de desenvolvimento.
 
 ## Licença: 
 ***Este projeto está sob Licença GPL-3.0.***
-Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/ScanPort/blob/master/Archives/LICENSE) para obter mais detalhes.
+Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/ScanPort/blob/main/LICENSE) para obter mais detalhes.
 
 ## Agradecimentos:
 * Obrigado à todos os que apoiam o projeto de alguma forma.
